@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @erwaan
+- 👀 I’m interested in art, music, video
+- 🌱 I’m currently learning in Brest
+- 📫 How to reach me : erwan.boisard@laposte.net
+
+<!---
+erwaan/erwaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
