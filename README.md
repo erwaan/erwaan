@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erwaan
 - 👀 I’m interested in art, music, video
-- 🌱 I’m currently learning in Brest
+- 🌱 I’m currently living in Brest
 - 📫 How to reach me : erwan.boisard@laposte.net
 
 <!---
