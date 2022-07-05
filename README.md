@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erwaan
 - 👀 I’m interested in art, music, video
 - 🏠 I’m currently living in Brest
-- 📫 How to reach me : erwan.boisard@laposte.net
 
 <!---
 erwaan/erwaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
